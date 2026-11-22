@@ -1,0 +1,273 @@
+{
+ "id": "prep-time2",
+ "title": "On time, in time, at the end",
+ "summary": "on time / in time, at the end / in the end",
+ "rules": [
+  {
+   "rule": "**on time** = at the planned time, not late.",
+   "examples": [
+    "The train left on time."
+   ]
+  },
+  {
+   "rule": "**in time (for / to)** = early enough, not too late.",
+   "examples": [
+    "Will you be home in time for dinner?"
+   ]
+  },
+  {
+   "rule": "**at the end / beginning of** something = at the moment it ends / starts.",
+   "examples": [
+    "I'm going away at the end of May."
+   ]
+  },
+  {
+   "rule": "**in the end** = finally, after a long time.",
+   "examples": [
+    "In the end, we sold the car."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "The 11:30 %1 left ... time.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "bus",
+     "train",
+     "flight"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-1"
+  },
+  {
+   "text": "Let's meet at 9:30. Please be ... time.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-2"
+  },
+  {
+   "text": "We %1 ... time.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "started",
+     "finished"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-3"
+  },
+  {
+   "text": "Will you be home ... time for %1?",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "dinner",
+     "Christmas"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-4"
+  },
+  {
+   "text": "I sent her a present. I hope it arrives ... time for her birthday.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-5"
+  },
+  {
+   "text": "I want to get home ... time to watch the football.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-6"
+  },
+  {
+   "text": "We got to the station just ... time to catch the train.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-7"
+  },
+  {
+   "text": "I'm going away ... the end of %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "my contract",
+     "May",
+     "the summer"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-8"
+  },
+  {
+   "text": "... the end of the concert, there was %1 applause.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "long",
+     "loud"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-9"
+  },
+  {
+   "text": "The players shook hands ... the end of the match.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-10"
+  },
+  {
+   "text": "He came here ... the beginning of %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "January",
+     "February",
+     "March",
+     "April",
+     "May",
+     "June",
+     "July",
+     "August",
+     "September",
+     "October",
+     "November",
+     "December",
+     "winter",
+     "spring",
+     "summer"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-11"
+  },
+  {
+   "text": "... the end we %1 it.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "sold",
+     "bought",
+     "fixed"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-12"
+  },
+  {
+   "text": "We had lots of problems, but ... the end everything was fine.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time2",
+   "id": "prep-time2-13"
+  }
+ ]
+}

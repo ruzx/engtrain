@@ -1,0 +1,221 @@
+{
+ "id": "comparatives",
+ "title": "Comparatives and superlatives",
+ "summary": "bigger, the biggest, more interesting",
+ "rules": [
+  {
+   "rule": "One syllable: **+er / the +est** — *old → older → the oldest*. Ending in -e: *nice → nicer → the nicest*.",
+   "examples": [
+    "My car is older than yours.",
+    "This is the nicest café in town."
+   ]
+  },
+  {
+   "rule": "One vowel + one consonant: **double the consonant** — *big → bigger → the biggest*.",
+   "examples": [
+    "Your bag is bigger than mine."
+   ]
+  },
+  {
+   "rule": "Consonant + **-y**: **-ier / -iest** — *happy → happier → the happiest*.",
+   "examples": [
+    "She looks happier today."
+   ]
+  },
+  {
+   "rule": "Two or more syllables: **more / the most** — *more interesting, the most beautiful*.",
+   "examples": [
+    "This book is more interesting than that one."
+   ]
+  },
+  {
+   "rule": "Irregular: **good → better → the best**, **bad → worse → the worst**, **far → further → the furthest**.",
+   "examples": [
+    "It was the worst day ever!"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "My car is ... (big) than his.",
+   "answer": [
+    "bigger"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-1"
+  },
+  {
+   "text": "It's ... (big) building in the town.",
+   "answer": [
+    "the biggest"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-2"
+  },
+  {
+   "text": "This is ... (small) dog I've ever seen.",
+   "answer": [
+    "the smallest"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-3"
+  },
+  {
+   "text": "Today is ... (hot) than yesterday.",
+   "answer": [
+    "hotter"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-4"
+  },
+  {
+   "text": "She is ... (happy) now than last year.",
+   "answer": [
+    "happier"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-5"
+  },
+  {
+   "text": "This exercise is ... (easy) than the last one.",
+   "answer": [
+    "easier"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-6"
+  },
+  {
+   "text": "That was ... (funny) film of the year.",
+   "answer": [
+    "the funniest"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-7"
+  },
+  {
+   "text": "He is ... (tall) than his father.",
+   "answer": [
+    "taller"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-8"
+  },
+  {
+   "text": "This book is ... (interesting) than the film.",
+   "answer": [
+    "more interesting"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-9"
+  },
+  {
+   "text": "It's ... (beautiful) place I've ever visited.",
+   "answer": [
+    "the most beautiful"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-10"
+  },
+  {
+   "text": "Russian is ... (difficult) than English for me.",
+   "answer": [
+    "more difficult"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-11"
+  },
+  {
+   "text": "It was ... (bad) day ever!",
+   "answer": [
+    "the worst"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-12"
+  },
+  {
+   "text": "Your English is ... (good) than mine.",
+   "answer": [
+    "better"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-13"
+  },
+  {
+   "text": "He is ... (good) player in the team.",
+   "answer": [
+    "the best"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-14"
+  },
+  {
+   "text": "My cold is ... (bad) today than yesterday.",
+   "answer": [
+    "worse"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-15"
+  },
+  {
+   "text": "Moscow is ... (far) from here than Kazan.",
+   "answer": [
+    "further",
+    "farther"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-16"
+  },
+  {
+   "text": "This is ... (expensive) phone in the shop.",
+   "answer": [
+    "the most expensive"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-17"
+  },
+  {
+   "text": "Be ... (careful) next time!",
+   "answer": [
+    "more careful"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-18"
+  },
+  {
+   "text": "The new road is ... (wide) than the old one.",
+   "answer": [
+    "wider"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-19"
+  },
+  {
+   "text": "It was ... (exciting) match of the season.",
+   "answer": [
+    "the most exciting"
+   ],
+   "type": "text",
+   "skill": "comparatives",
+   "id": "comparatives-20"
+  }
+ ]
+}

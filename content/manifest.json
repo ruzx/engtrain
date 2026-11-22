@@ -1,0 +1,50 @@
+{
+  "title": "English Practice",
+  "reportUrl": "",
+  "audio": {
+    "dir": "assets/audio",
+    "ext": "",
+    "lang": "en-GB"
+  },
+  "sections": [
+    {
+      "title": "Grammar basics",
+      "modules": [
+        "articles",
+        "comparatives",
+        "domake"
+      ]
+    },
+    {
+      "title": "Prepositions: time and place",
+      "modules": [
+        "prep-time",
+        "prep-time2",
+        "prep-place",
+        "prep-movement"
+      ]
+    },
+    {
+      "title": "Prepositions in phrases",
+      "modules": [
+        "prep-phrases",
+        "prep-adj",
+        "prep-noun",
+        "prep-verb"
+      ]
+    },
+    {
+      "title": "Verbs",
+      "modules": [
+        "irregular",
+        "phrasal"
+      ]
+    },
+    {
+      "title": "Word building",
+      "modules": [
+        "prefixes"
+      ]
+    }
+  ]
+}

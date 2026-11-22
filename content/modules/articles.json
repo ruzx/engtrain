@@ -1,0 +1,491 @@
+{
+ "id": "articles",
+ "title": "Articles: a, an, the",
+ "summary": "When to use a/an, the or no article",
+ "rules": [
+  {
+   "rule": "**a / an** — one thing, not specific; jobs: *She is a doctor.*",
+   "examples": [
+    "I have an apple.",
+    "He is an engineer."
+   ]
+  },
+  {
+   "rule": "**an** before a vowel **sound**: *an hour, an umbrella* — but *a university, a user* (they start with a /j/ sound).",
+   "examples": [
+    "I waited for an hour.",
+    "She studies at a university."
+   ]
+  },
+  {
+   "rule": "**the** — both people know which one: mentioned before, or only one exists.",
+   "examples": [
+    "I bought apples. The apples were sweet.",
+    "The sun is hot."
+   ]
+  },
+  {
+   "rule": "**No article** — plural or uncountable things in general; and in *go to bed, at work, go home, at school* (as a student).",
+   "examples": [
+    "I like children.",
+    "She is at work.",
+    "Let's go home."
+   ]
+  },
+  {
+   "rule": "Countries: usually **no article** (*Spain, Russia*), but **the** with *Republic, Kingdom, States*: *the US, the UK, the Czech Republic*.",
+   "examples": [
+    "I live in Spain.",
+    "I'm from the US."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "I have ... apple.",
+   "answer": [
+    "an"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-1"
+  },
+  {
+   "text": "I have ... apples.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-2"
+  },
+  {
+   "text": "I saw some apples at home. Did you bring ... apples?",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-3"
+  },
+  {
+   "text": "Do you like ... children?",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-4"
+  },
+  {
+   "text": "Could you pick up ... children from school today?",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-5"
+  },
+  {
+   "text": "I'm not a developer, I'm ... user.",
+   "answer": [
+    "a"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-6"
+  },
+  {
+   "text": "Could you add ... sugar to my coffee?",
+   "answer": [
+    "no article"
+   ],
+   "explain": "Uncountable noun in general: no article (or \"some\").",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-7"
+  },
+  {
+   "text": "I was there for ... hour or two.",
+   "answer": [
+    "an"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-8"
+  },
+  {
+   "text": "She is ... university teacher.",
+   "answer": [
+    "a"
+   ],
+   "explain": "\"University\" starts with a /j/ sound, so \"a\".",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-9"
+  },
+  {
+   "text": "My brother is ... engineer.",
+   "answer": [
+    "an"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-10"
+  },
+  {
+   "text": "It's ... honour to meet you.",
+   "answer": [
+    "an"
+   ],
+   "explain": "\"h\" is silent in \"honour\".",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-11"
+  },
+  {
+   "text": "I am going to ... bed.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-12"
+  },
+  {
+   "text": "I am at ... work now.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-13"
+  },
+  {
+   "text": "I start ... work at 9 o'clock.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-14"
+  },
+  {
+   "text": "My job? ... work is hard but interesting.",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-15"
+  },
+  {
+   "text": "Let's go ... home.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-16"
+  },
+  {
+   "text": "Where am I? I am at ... home.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-17"
+  },
+  {
+   "text": "We have ... new school in our village.",
+   "answer": [
+    "a"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-18"
+  },
+  {
+   "text": "My son %1 ... school this year.",
+   "answer": [
+    "no article"
+   ],
+   "args": [
+    [
+     "started",
+     "finished",
+     "went to"
+    ]
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-19"
+  },
+  {
+   "text": "I visited ... school to talk to my son's teacher.",
+   "answer": [
+    "the"
+   ],
+   "explain": "A specific building, not school as education.",
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-20"
+  },
+  {
+   "text": "My son should be at ... school right now.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-21"
+  },
+  {
+   "text": "I live in ... Spain.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-22"
+  },
+  {
+   "text": "I'm from ... US.",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-23"
+  },
+  {
+   "text": "London is the capital of ... United Kingdom.",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-24"
+  },
+  {
+   "text": "I am from ... Russia.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-25"
+  },
+  {
+   "text": "... Republic of Cyprus is an island country.",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-26"
+  },
+  {
+   "text": "... moon goes round the Earth.",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-27"
+  },
+  {
+   "text": "She plays ... piano very well.",
+   "answer": [
+    "the"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-28"
+  },
+  {
+   "text": "I usually have ... breakfast at 7.",
+   "answer": [
+    "no article"
+   ],
+   "options": [
+    "a",
+    "an",
+    "the",
+    "no article"
+   ],
+   "type": "choice",
+   "skill": "articles",
+   "id": "articles-29"
+  }
+ ]
+}

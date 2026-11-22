@@ -1,0 +1,515 @@
+{
+ "id": "domake",
+ "title": "Do or make",
+ "summary": "do homework, make a mistake",
+ "rules": [
+  {
+   "rule": "**make** — create or produce something: *make a cake, make a plan, make a decision, make a mistake, make a noise*.",
+   "examples": [
+    "I made a cake for you.",
+    "Don't make so much noise!"
+   ]
+  },
+  {
+   "rule": "**do** — actions, work, jobs, repeated activities: *do homework, do the dishes, do the shopping, do your best*.",
+   "examples": [
+    "Have you done your homework?",
+    "I always do the shopping on Saturdays."
+   ]
+  },
+  {
+   "rule": "**do** with *something, nothing, anything, everything*.",
+   "examples": [
+    "I'll do anything for you."
+   ]
+  },
+  {
+   "rule": "**made of / from** — material: *made of wood*. **make someone do / feel** — cause: *Onions make my eyes water.*",
+   "examples": [
+    "This table is made of wood.",
+    "You always make me happy."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "I ... a %1 for you.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "did"
+   ],
+   "args": [
+    [
+     "cake",
+     "cocktail",
+     "present"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-1"
+  },
+  {
+   "text": "You ... too much noise.",
+   "answer": [
+    "make"
+   ],
+   "options": [
+    "make",
+    "do"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-2"
+  },
+  {
+   "text": "Could you ... %1?",
+   "answer": [
+    "make"
+   ],
+   "options": [
+    "make",
+    "do"
+   ],
+   "args": [
+    [
+     "a comment",
+     "a speech",
+     "a suggestion"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-3"
+  },
+  {
+   "text": "Please don't ... a mess in the kitchen.",
+   "answer": [
+    "make"
+   ],
+   "options": [
+    "make",
+    "do"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-4"
+  },
+  {
+   "text": "I ... my %1 yesterday.",
+   "answer": [
+    "did"
+   ],
+   "options": [
+    "did",
+    "made"
+   ],
+   "args": [
+    [
+     "homework",
+     "housework",
+     "chores"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-5"
+  },
+  {
+   "text": "I ... %1 all day.",
+   "answer": [
+    "did"
+   ],
+   "options": [
+    "did",
+    "made"
+   ],
+   "args": [
+    [
+     "nothing",
+     "everything"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-6"
+  },
+  {
+   "text": "I'll ... anything for you.",
+   "answer": [
+    "do"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-7"
+  },
+  {
+   "text": "I have already ... plans for the weekend.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "done"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-8"
+  },
+  {
+   "text": "I ... a %1.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "did"
+   ],
+   "args": [
+    [
+     "decision",
+     "plan",
+     "choice"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-9"
+  },
+  {
+   "text": "Have you ... the dishes yet?",
+   "answer": [
+    "done"
+   ],
+   "options": [
+    "done",
+    "made"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-10"
+  },
+  {
+   "text": "I'll ... the shopping if you cook dinner.",
+   "answer": [
+    "do"
+   ],
+   "options": [
+    "make",
+    "do"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-11"
+  },
+  {
+   "text": "This building is ... of concrete.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "done"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-12"
+  },
+  {
+   "text": "This table is ... from wood.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "done"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-13"
+  },
+  {
+   "text": "This phone was ... in China.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "done"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-14"
+  },
+  {
+   "text": "This present was ... by me.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "done"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-15"
+  },
+  {
+   "text": "She ... me happy.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "did"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-16"
+  },
+  {
+   "text": "Onions always ... my eyes water.",
+   "answer": [
+    "make"
+   ],
+   "options": [
+    "make",
+    "do"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-17"
+  },
+  {
+   "text": "It's not his fault. I ... him do it!",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "made",
+    "did"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-18"
+  },
+  {
+   "text": "Have you ... your homework?",
+   "answer": [
+    "done"
+   ],
+   "options": [
+    "made",
+    "done"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-19"
+  },
+  {
+   "text": "Don't just stand there — ... something!",
+   "answer": [
+    "do"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-20"
+  },
+  {
+   "text": "Is there anything I can ... to help you?",
+   "answer": [
+    "do"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-21"
+  },
+  {
+   "text": "Can you ... %1?",
+   "answer": [
+    "make"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "args": [
+    [
+     "a call",
+     "a promise"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-22"
+  },
+  {
+   "text": "I ... %1 for you.",
+   "answer": [
+    "made"
+   ],
+   "options": [
+    "did",
+    "made"
+   ],
+   "args": [
+    [
+     "dinner",
+     "a sandwich",
+     "a cup of tea"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-23"
+  },
+  {
+   "text": "Can you ... %1?",
+   "answer": [
+    "do"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "args": [
+    [
+     "a course",
+     "a crossword",
+     "a favour",
+     "a project",
+     "an assignment",
+     "business",
+     "the chores",
+     "some exercises",
+     "research",
+     "the right thing",
+     "the dishes",
+     "the gardening",
+     "the housework",
+     "the ironing",
+     "the laundry",
+     "the shopping",
+     "the washing",
+     "your best",
+     "your homework",
+     "your work"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-24"
+  },
+  {
+   "text": "Can you ... %1?",
+   "answer": [
+    "make"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "args": [
+    [
+     "a cake",
+     "a call",
+     "a change",
+     "a choice",
+     "a comment",
+     "a complaint",
+     "a cup of tea",
+     "a cup of coffee",
+     "a decision",
+     "a difference",
+     "a discovery",
+     "a fuss",
+     "a joke",
+     "a list",
+     "a mess",
+     "a mistake",
+     "a noise",
+     "a phone call",
+     "a plan",
+     "a prediction",
+     "a profit",
+     "a promise",
+     "a reservation",
+     "a sandwich",
+     "a speech",
+     "a suggestion",
+     "an appointment",
+     "an attempt",
+     "an effort",
+     "an excuse",
+     "an offer",
+     "arrangements",
+     "breakfast",
+     "dinner",
+     "lunch",
+     "friends",
+     "money",
+     "progress",
+     "room",
+     "your bed"
+    ]
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-25"
+  },
+  {
+   "text": "Everyone ... mistakes.",
+   "answer": [
+    "makes"
+   ],
+   "options": [
+    "does",
+    "makes"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-26"
+  },
+  {
+   "text": "Try to ... your best.",
+   "answer": [
+    "do"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-27"
+  },
+  {
+   "text": "Could you ... me a favour?",
+   "answer": [
+    "do"
+   ],
+   "options": [
+    "do",
+    "make"
+   ],
+   "type": "choice",
+   "skill": "domake",
+   "id": "domake-28"
+  }
+ ]
+}

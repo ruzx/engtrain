@@ -1,0 +1,617 @@
+{
+ "id": "prep-phrases",
+ "title": "On, in, at, by: set phrases",
+ "summary": "on holiday, in cash, by mistake, at 90 km/h",
+ "rules": [
+  {
+   "rule": "**on**: *on holiday, on business, on the phone, on TV, on strike, on a diet, on fire, on purpose, on the whole*.",
+   "examples": [
+    "She's on the phone.",
+    "He did it on purpose."
+   ]
+  },
+  {
+   "rule": "**in**: *in the rain / sun / dark, in pencil, in pen, in cash, in love, in my opinion*.",
+   "examples": [
+    "Can I pay in cash?",
+    "In my opinion, it is too expensive."
+   ]
+  },
+  {
+   "rule": "**at**: *at the age of 17, at a speed of 90 km/h, at 0 degrees*.",
+   "examples": [
+    "Water freezes at 0 °C."
+   ]
+  },
+  {
+   "rule": "**by**: *by mistake, by accident, by chance, by post, by card, by hand, by car / train*; written **by** an author; done **by** someone.",
+   "examples": [
+    "I deleted it by mistake.",
+    "The book was written by Agatha Christie."
+   ]
+  },
+  {
+   "rule": "**with** = using a tool: *cut it with a knife*.",
+   "examples": [
+    "I opened it with a key."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "I'm %1 ... holiday in %2.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "for"
+   ],
+   "args": [
+    [
+     "",
+     "going"
+    ],
+    [
+     "Spain",
+     "Italy"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-1"
+  },
+  {
+   "text": "I'm leaving ... a holiday next week.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-2"
+  },
+  {
+   "text": "She's ... the phone right now.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-3"
+  },
+  {
+   "text": "Deliveries have stopped. The couriers are ... strike.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-4"
+  },
+  {
+   "text": "She doesn't eat ice cream. She's ... a diet.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-5"
+  },
+  {
+   "text": "Look! %1 is ... fire!",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "args": [
+    [
+     "The car",
+     "The house"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-6"
+  },
+  {
+   "text": "... the whole, I like %1.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "args": [
+    [
+     "my school",
+     "this city"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-7"
+  },
+  {
+   "text": "He broke the window ... purpose!",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-8"
+  },
+  {
+   "text": "We often walk ... the %1.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "in",
+    "at",
+    "with"
+   ],
+   "args": [
+    [
+     "rain",
+     "sun",
+     "dark"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-9"
+  },
+  {
+   "text": "You can't sign it ... pencil.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "in",
+    "by",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-10"
+  },
+  {
+   "text": "Fill in the form ... capital letters, please.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "in",
+    "by",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-11"
+  },
+  {
+   "text": "Can I pay ... cash?",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-12"
+  },
+  {
+   "text": "Do you accept payment ... card?",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-13"
+  },
+  {
+   "text": "They fell ... love at first sight.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-14"
+  },
+  {
+   "text": "... my opinion, this film is boring.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-15"
+  },
+  {
+   "text": "The children laughed ... the clown.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "on",
+    "with",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-16"
+  },
+  {
+   "text": "I left school ... the age of 17.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-17"
+  },
+  {
+   "text": "I finished school ... 2015.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-18"
+  },
+  {
+   "text": "... a speed of 90 km/h, you will get a fine here.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-19"
+  },
+  {
+   "text": "Water freezes ... 0 degrees Celsius.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "in",
+    "by",
+    "with",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-20"
+  },
+  {
+   "text": "I sent the letter ... %1.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "at",
+    "in",
+    "with"
+   ],
+   "args": [
+    [
+     "post",
+     "courier"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-21"
+  },
+  {
+   "text": "I made this sweater ... hand.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "at",
+    "in",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-22"
+  },
+  {
+   "text": "I deleted the file ... %1.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "args": [
+    [
+     "mistake",
+     "accident"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-23"
+  },
+  {
+   "text": "We met ... chance in the park.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-24"
+  },
+  {
+   "text": "I came here ... %1.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "args": [
+    [
+     "car",
+     "train",
+     "plane",
+     "bus",
+     "bike",
+     "boat"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-25"
+  },
+  {
+   "text": "I came here ... a taxi.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-26"
+  },
+  {
+   "text": "I came here ... the 6:45 %1.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "args": [
+    [
+     "train",
+     "bus"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-27"
+  },
+  {
+   "text": "Have you ever been bitten ... %1?",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "args": [
+    [
+     "a dog",
+     "a mosquito"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-28"
+  },
+  {
+   "text": "The match was watched ... millions of people.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-29"
+  },
+  {
+   "text": "I cracked the nut ... a hammer.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "by",
+    "on",
+    "in",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-30"
+  },
+  {
+   "text": "The last book I read was ... Agatha Christie.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "of",
+    "from"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-31"
+  },
+  {
+   "text": "Come and sit ... me.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "at",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-32"
+  },
+  {
+   "text": "He won the race ... %1.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "with",
+    "on"
+   ],
+   "args": [
+    [
+     "five metres",
+     "two seconds"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-33"
+  },
+  {
+   "text": "This year my salary went up ... 10 per cent.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "with",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-phrases",
+   "id": "prep-phrases-34"
+  }
+ ]
+}

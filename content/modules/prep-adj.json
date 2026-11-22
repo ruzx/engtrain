@@ -1,0 +1,734 @@
+{
+ "id": "prep-adj",
+ "title": "Prepositions after adjectives",
+ "summary": "afraid of, good at, interested in",
+ "rules": [
+  {
+   "rule": "**It's kind / nice / silly of you** (to do something). **kind / friendly to** someone.",
+   "examples": [
+    "It was kind of you to help me.",
+    "She was always kind to me."
+   ]
+  },
+  {
+   "rule": "**angry / annoyed / upset about** something, **angry with** a person. **excited / worried / nervous about**.",
+   "examples": [
+    "I'm angry with her for being late.",
+    "I'm nervous about the exam."
+   ]
+  },
+  {
+   "rule": "**pleased / satisfied / disappointed with**; **surprised / shocked at / by**; **fed up / bored with**.",
+   "examples": [
+    "I'm pleased with my new phone."
+   ]
+  },
+  {
+   "rule": "**of**: *afraid, scared, proud, ashamed, jealous, aware, capable, full, tired, sure, typical, independent of*.",
+   "examples": [
+    "I'm afraid of spiders.",
+    "The bottle is full of water."
+   ]
+  },
+  {
+   "rule": "**good / bad at**; **interested in**; **keen on, dependent on**; **married / similar to**; **different from / to**; **famous / responsible for**; **sorry for / about**.",
+   "examples": [
+    "I'm good at maths.",
+    "I'm interested in history."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "It was %1 ... you to help me.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "from",
+    "by",
+    "to"
+   ],
+   "args": [
+    [
+     "nice",
+     "kind"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-1"
+  },
+  {
+   "text": "It was %1 ... him to go out in such weather.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "from",
+    "by",
+    "to"
+   ],
+   "args": [
+    [
+     "stupid",
+     "silly"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-2"
+  },
+  {
+   "text": "She was always %1 ... me.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "by",
+    "at",
+    "to"
+   ],
+   "args": [
+    [
+     "kind",
+     "nice",
+     "friendly"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-3"
+  },
+  {
+   "text": "It's silly to be %1 ... %2.",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "by",
+    "at",
+    "with"
+   ],
+   "args": [
+    [
+     "angry",
+     "upset"
+    ],
+    [
+     "bad weather",
+     "small things"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-4"
+  },
+  {
+   "text": "I'm %1 ... her for being late.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "about",
+    "of",
+    "by",
+    "at",
+    "with"
+   ],
+   "args": [
+    [
+     "angry",
+     "annoyed"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-5"
+  },
+  {
+   "text": "I'm %1 ... my next speech.",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "by",
+    "at",
+    "with"
+   ],
+   "args": [
+    [
+     "excited",
+     "worried",
+     "nervous"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-6"
+  },
+  {
+   "text": "I'm %1 ... the present I got for my birthday.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "about",
+    "of",
+    "by",
+    "at",
+    "with"
+   ],
+   "args": [
+    [
+     "delighted",
+     "pleased",
+     "disappointed"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-7"
+  },
+  {
+   "text": "I was %1 ... the news.",
+   "answer": [
+    "at",
+    "by"
+   ],
+   "options": [
+    "about",
+    "of",
+    "by",
+    "at",
+    "with"
+   ],
+   "args": [
+    [
+     "surprised",
+     "shocked",
+     "amazed"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-8"
+  },
+  {
+   "text": "I'm impressed ... his work.",
+   "answer": [
+    "with",
+    "by"
+   ],
+   "options": [
+    "about",
+    "of",
+    "by",
+    "at",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-9"
+  },
+  {
+   "text": "I'm %1 ... his behaviour.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "about",
+    "of",
+    "by",
+    "at",
+    "with"
+   ],
+   "args": [
+    [
+     "fed up",
+     "bored"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-10"
+  },
+  {
+   "text": "I'm sorry ... the noise last night.",
+   "answer": [
+    "about",
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "by",
+    "at",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-11"
+  },
+  {
+   "text": "I'm sorry ... shouting at you.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "by",
+    "at",
+    "with"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-12"
+  },
+  {
+   "text": "I'm sorry ... I shouted at you.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "about",
+    "for",
+    "by",
+    "at",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-13"
+  },
+  {
+   "text": "I feel sorry ... my friend. He lost his job.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "by",
+    "at",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-14"
+  },
+  {
+   "text": "I'm %1 ... %2.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to"
+   ],
+   "args": [
+    [
+     "afraid",
+     "scared",
+     "frightened"
+    ],
+    [
+     "spiders",
+     "heights",
+     "dogs"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-15"
+  },
+  {
+   "text": "I'm %1 ... my brother.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to"
+   ],
+   "args": [
+    [
+     "proud",
+     "jealous"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-16"
+  },
+  {
+   "text": "I'm %1 ... other people's success.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "args": [
+    [
+     "jealous",
+     "envious"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-17"
+  },
+  {
+   "text": "She's %1 ... everything new.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "args": [
+    [
+     "suspicious",
+     "critical"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-18"
+  },
+  {
+   "text": "I'm %1 ... the risk.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "args": [
+    [
+     "aware",
+     "conscious"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-19"
+  },
+  {
+   "text": "He is %1 ... doing it alone.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "args": [
+    [
+     "capable",
+     "incapable"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-20"
+  },
+  {
+   "text": "The bottle is full ... water.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-21"
+  },
+  {
+   "text": "I'm tired ... waiting.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-22"
+  },
+  {
+   "text": "It's typical ... him to be late.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-23"
+  },
+  {
+   "text": "I'm %1 ... the answer.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "args": [
+    [
+     "sure",
+     "certain"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-24"
+  },
+  {
+   "text": "I'm %1 ... %2.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "args": [
+    [
+     "good",
+     "bad",
+     "brilliant",
+     "hopeless"
+    ],
+    [
+     "grammar",
+     "writing",
+     "maths",
+     "drawing"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-25"
+  },
+  {
+   "text": "She is %1 ... a doctor.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "args": [
+    [
+     "married",
+     "engaged"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-26"
+  },
+  {
+   "text": "Your bike is similar ... mine.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "to",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-27"
+  },
+  {
+   "text": "Your bike is different ... mine.",
+   "answer": [
+    "from",
+    "to"
+   ],
+   "options": [
+    "of",
+    "with",
+    "from",
+    "by",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-28"
+  },
+  {
+   "text": "I'm keen ... football.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "of",
+    "with",
+    "on",
+    "to",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-29"
+  },
+  {
+   "text": "I'm interested ... history.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "of",
+    "with",
+    "on",
+    "to",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-30"
+  },
+  {
+   "text": "I'm still dependent ... my parents.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "of",
+    "with",
+    "on",
+    "to",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-31"
+  },
+  {
+   "text": "She is independent ... her parents.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "with",
+    "on",
+    "to",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-32"
+  },
+  {
+   "text": "The bar was crowded ... people.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-33"
+  },
+  {
+   "text": "This town is %1 ... its cheese.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "for"
+   ],
+   "args": [
+    [
+     "famous",
+     "well known"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-34"
+  },
+  {
+   "text": "Who is responsible ... this mess?",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "of",
+    "with",
+    "by",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-adj",
+   "id": "prep-adj-35"
+  }
+ ]
+}

@@ -1,0 +1,1139 @@
+{
+ "id": "irregular",
+ "title": "Irregular verbs",
+ "summary": "go — went — gone",
+ "rules": [
+  {
+   "rule": "Write **Past Simple** and **Past Participle**: *go — went — gone*.",
+   "examples": [
+    "go, went, gone",
+    "write, wrote, written"
+   ]
+  },
+  {
+   "rule": "Group 1 — all three the same: *cut, put, let, hit, cost, set, shut*.",
+   "examples": [
+    "put, put, put"
+   ]
+  },
+  {
+   "rule": "Group 2 — forms 2 and 3 the same: *buy — bought — bought, teach — taught — taught, keep — kept — kept*.",
+   "examples": [
+    "buy, bought, bought"
+   ]
+  },
+  {
+   "rule": "Group 3 — all different: *sing — sang — sung, drink — drank — drunk, take — took — taken*.",
+   "examples": [
+    "sing, sang, sung"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "be",
+   "answer": [
+    "was been",
+    "were been"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-1"
+  },
+  {
+   "text": "bear",
+   "answer": [
+    "bore borne"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-2"
+  },
+  {
+   "text": "beat",
+   "answer": [
+    "beat beaten"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-3"
+  },
+  {
+   "text": "become",
+   "answer": [
+    "became become"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-4"
+  },
+  {
+   "text": "begin",
+   "answer": [
+    "began begun"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-5"
+  },
+  {
+   "text": "bend",
+   "answer": [
+    "bent bent"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-6"
+  },
+  {
+   "text": "bet",
+   "answer": [
+    "bet bet"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-7"
+  },
+  {
+   "text": "bind",
+   "answer": [
+    "bound bound"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-8"
+  },
+  {
+   "text": "bite",
+   "answer": [
+    "bit bitten"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-9"
+  },
+  {
+   "text": "bleed",
+   "answer": [
+    "bled bled"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-10"
+  },
+  {
+   "text": "blow",
+   "answer": [
+    "blew blown"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-11"
+  },
+  {
+   "text": "break",
+   "answer": [
+    "broke broken"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-12"
+  },
+  {
+   "text": "bring",
+   "answer": [
+    "brought brought"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-13"
+  },
+  {
+   "text": "build",
+   "answer": [
+    "built built"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-14"
+  },
+  {
+   "text": "burn",
+   "answer": [
+    "burnt burnt",
+    "burned burned"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-15"
+  },
+  {
+   "text": "burst",
+   "answer": [
+    "burst burst"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-16"
+  },
+  {
+   "text": "buy",
+   "answer": [
+    "bought bought"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-17"
+  },
+  {
+   "text": "cast",
+   "answer": [
+    "cast cast"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-18"
+  },
+  {
+   "text": "catch",
+   "answer": [
+    "caught caught"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-19"
+  },
+  {
+   "text": "choose",
+   "answer": [
+    "chose chosen"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-20"
+  },
+  {
+   "text": "come",
+   "answer": [
+    "came come"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-21"
+  },
+  {
+   "text": "cost",
+   "answer": [
+    "cost cost"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-22"
+  },
+  {
+   "text": "cut",
+   "answer": [
+    "cut cut"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-23"
+  },
+  {
+   "text": "deal",
+   "answer": [
+    "dealt dealt"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-24"
+  },
+  {
+   "text": "dig",
+   "answer": [
+    "dug dug"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-25"
+  },
+  {
+   "text": "do",
+   "answer": [
+    "did done"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-26"
+  },
+  {
+   "text": "draw",
+   "answer": [
+    "drew drawn"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-27"
+  },
+  {
+   "text": "dream",
+   "answer": [
+    "dreamt dreamt",
+    "dreamed dreamed"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-28"
+  },
+  {
+   "text": "drink",
+   "answer": [
+    "drank drunk"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-29"
+  },
+  {
+   "text": "drive",
+   "answer": [
+    "drove driven"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-30"
+  },
+  {
+   "text": "eat",
+   "answer": [
+    "ate eaten"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-31"
+  },
+  {
+   "text": "fall",
+   "answer": [
+    "fell fallen"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-32"
+  },
+  {
+   "text": "feed",
+   "answer": [
+    "fed fed"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-33"
+  },
+  {
+   "text": "feel",
+   "answer": [
+    "felt felt"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-34"
+  },
+  {
+   "text": "fight",
+   "answer": [
+    "fought fought"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-35"
+  },
+  {
+   "text": "find",
+   "answer": [
+    "found found"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-36"
+  },
+  {
+   "text": "fly",
+   "answer": [
+    "flew flown"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-37"
+  },
+  {
+   "text": "forbid",
+   "answer": [
+    "forbade forbidden"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-38"
+  },
+  {
+   "text": "forget",
+   "answer": [
+    "forgot forgotten"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-39"
+  },
+  {
+   "text": "forgive",
+   "answer": [
+    "forgave forgiven"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-40"
+  },
+  {
+   "text": "get",
+   "answer": [
+    "got got",
+    "got gotten"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-41"
+  },
+  {
+   "text": "give",
+   "answer": [
+    "gave given"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-42"
+  },
+  {
+   "text": "go",
+   "answer": [
+    "went gone"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-43"
+  },
+  {
+   "text": "grow",
+   "answer": [
+    "grew grown"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-44"
+  },
+  {
+   "text": "hang",
+   "answer": [
+    "hung hung"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-45"
+  },
+  {
+   "text": "have",
+   "answer": [
+    "had had"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-46"
+  },
+  {
+   "text": "hear",
+   "answer": [
+    "heard heard"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-47"
+  },
+  {
+   "text": "hide",
+   "answer": [
+    "hid hidden"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-48"
+  },
+  {
+   "text": "hit",
+   "answer": [
+    "hit hit"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-49"
+  },
+  {
+   "text": "hold",
+   "answer": [
+    "held held"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-50"
+  },
+  {
+   "text": "hurt",
+   "answer": [
+    "hurt hurt"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-51"
+  },
+  {
+   "text": "keep",
+   "answer": [
+    "kept kept"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-52"
+  },
+  {
+   "text": "know",
+   "answer": [
+    "knew known"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-53"
+  },
+  {
+   "text": "lay (put something down)",
+   "answer": [
+    "laid laid"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-54"
+  },
+  {
+   "text": "lead",
+   "answer": [
+    "led led"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-55"
+  },
+  {
+   "text": "learn",
+   "answer": [
+    "learnt learnt",
+    "learned learned"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-56"
+  },
+  {
+   "text": "leave",
+   "answer": [
+    "left left"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-57"
+  },
+  {
+   "text": "lend",
+   "answer": [
+    "lent lent"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-58"
+  },
+  {
+   "text": "let",
+   "answer": [
+    "let let"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-59"
+  },
+  {
+   "text": "lie (on a bed)",
+   "answer": [
+    "lay lain"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-60"
+  },
+  {
+   "text": "lose",
+   "answer": [
+    "lost lost"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-61"
+  },
+  {
+   "text": "make",
+   "answer": [
+    "made made"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-62"
+  },
+  {
+   "text": "mean",
+   "answer": [
+    "meant meant"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-63"
+  },
+  {
+   "text": "meet",
+   "answer": [
+    "met met"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-64"
+  },
+  {
+   "text": "mislead",
+   "answer": [
+    "misled misled"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-65"
+  },
+  {
+   "text": "overcome",
+   "answer": [
+    "overcame overcome"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-66"
+  },
+  {
+   "text": "overhear",
+   "answer": [
+    "overheard overheard"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-67"
+  },
+  {
+   "text": "oversleep",
+   "answer": [
+    "overslept overslept"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-68"
+  },
+  {
+   "text": "pay",
+   "answer": [
+    "paid paid"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-69"
+  },
+  {
+   "text": "put",
+   "answer": [
+    "put put"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-70"
+  },
+  {
+   "text": "read",
+   "answer": [
+    "read read"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-71"
+  },
+  {
+   "text": "rid",
+   "answer": [
+    "rid rid"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-72"
+  },
+  {
+   "text": "ride",
+   "answer": [
+    "rode ridden"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-73"
+  },
+  {
+   "text": "ring",
+   "answer": [
+    "rang rung"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-74"
+  },
+  {
+   "text": "rise",
+   "answer": [
+    "rose risen"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-75"
+  },
+  {
+   "text": "run",
+   "answer": [
+    "ran run"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-76"
+  },
+  {
+   "text": "say",
+   "answer": [
+    "said said"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-77"
+  },
+  {
+   "text": "see",
+   "answer": [
+    "saw seen"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-78"
+  },
+  {
+   "text": "seek",
+   "answer": [
+    "sought sought"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-79"
+  },
+  {
+   "text": "sell",
+   "answer": [
+    "sold sold"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-80"
+  },
+  {
+   "text": "send",
+   "answer": [
+    "sent sent"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-81"
+  },
+  {
+   "text": "set",
+   "answer": [
+    "set set"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-82"
+  },
+  {
+   "text": "shake",
+   "answer": [
+    "shook shaken"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-83"
+  },
+  {
+   "text": "shine",
+   "answer": [
+    "shone shone"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-84"
+  },
+  {
+   "text": "shoot",
+   "answer": [
+    "shot shot"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-85"
+  },
+  {
+   "text": "show",
+   "answer": [
+    "showed shown"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-86"
+  },
+  {
+   "text": "shut",
+   "answer": [
+    "shut shut"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-87"
+  },
+  {
+   "text": "sing",
+   "answer": [
+    "sang sung"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-88"
+  },
+  {
+   "text": "sink",
+   "answer": [
+    "sank sunk"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-89"
+  },
+  {
+   "text": "sit",
+   "answer": [
+    "sat sat"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-90"
+  },
+  {
+   "text": "sleep",
+   "answer": [
+    "slept slept"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-91"
+  },
+  {
+   "text": "slide",
+   "answer": [
+    "slid slid"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-92"
+  },
+  {
+   "text": "smell",
+   "answer": [
+    "smelt smelt",
+    "smelled smelled"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-93"
+  },
+  {
+   "text": "speak",
+   "answer": [
+    "spoke spoken"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-94"
+  },
+  {
+   "text": "spell",
+   "answer": [
+    "spelt spelt",
+    "spelled spelled"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-95"
+  },
+  {
+   "text": "spend",
+   "answer": [
+    "spent spent"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-96"
+  },
+  {
+   "text": "spin",
+   "answer": [
+    "spun spun"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-97"
+  },
+  {
+   "text": "split",
+   "answer": [
+    "split split"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-98"
+  },
+  {
+   "text": "spread",
+   "answer": [
+    "spread spread"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-99"
+  },
+  {
+   "text": "stand",
+   "answer": [
+    "stood stood"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-100"
+  },
+  {
+   "text": "steal",
+   "answer": [
+    "stole stolen"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-101"
+  },
+  {
+   "text": "stick",
+   "answer": [
+    "stuck stuck"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-102"
+  },
+  {
+   "text": "sting",
+   "answer": [
+    "stung stung"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-103"
+  },
+  {
+   "text": "strike",
+   "answer": [
+    "struck struck"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-104"
+  },
+  {
+   "text": "swear",
+   "answer": [
+    "swore sworn"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-105"
+  },
+  {
+   "text": "sweep",
+   "answer": [
+    "swept swept"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-106"
+  },
+  {
+   "text": "swim",
+   "answer": [
+    "swam swum"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-107"
+  },
+  {
+   "text": "swing",
+   "answer": [
+    "swung swung"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-108"
+  },
+  {
+   "text": "take",
+   "answer": [
+    "took taken"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-109"
+  },
+  {
+   "text": "teach",
+   "answer": [
+    "taught taught"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-110"
+  },
+  {
+   "text": "tear",
+   "answer": [
+    "tore torn"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-111"
+  },
+  {
+   "text": "tell",
+   "answer": [
+    "told told"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-112"
+  },
+  {
+   "text": "think",
+   "answer": [
+    "thought thought"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-113"
+  },
+  {
+   "text": "throw",
+   "answer": [
+    "threw thrown"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-114"
+  },
+  {
+   "text": "understand",
+   "answer": [
+    "understood understood"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-115"
+  },
+  {
+   "text": "undertake",
+   "answer": [
+    "undertook undertaken"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-116"
+  },
+  {
+   "text": "wake",
+   "answer": [
+    "woke woken"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-117"
+  },
+  {
+   "text": "wear",
+   "answer": [
+    "wore worn"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-118"
+  },
+  {
+   "text": "win",
+   "answer": [
+    "won won"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-119"
+  },
+  {
+   "text": "wind",
+   "answer": [
+    "wound wound"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-120"
+  },
+  {
+   "text": "withdraw",
+   "answer": [
+    "withdrew withdrawn"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-121"
+  },
+  {
+   "text": "write",
+   "answer": [
+    "wrote written"
+   ],
+   "type": "forms",
+   "skill": "irregular",
+   "id": "irregular-122"
+  }
+ ]
+}

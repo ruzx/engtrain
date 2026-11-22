@@ -1,0 +1,317 @@
+{
+ "id": "prep-noun",
+ "title": "Prepositions after nouns",
+ "summary": "a reason for, the cause of, an increase in",
+ "rules": [
+  {
+   "rule": "**for**: *a cheque for $100, demand for, a need for, a reason for*.",
+   "examples": [
+    "There is no need for it."
+   ]
+  },
+  {
+   "rule": "**of**: *an advantage of, a cause of, a map / photo / picture of*.",
+   "examples": [
+    "The cause of the fire is unknown."
+   ]
+  },
+  {
+   "rule": "**in**: *an increase / decrease / rise / fall in*.",
+   "examples": [
+    "There was a rise in prices."
+   ]
+  },
+  {
+   "rule": "**to**: *damage to, an invitation to, a solution / key / answer / reply / reaction to, an attitude to(wards)*.",
+   "examples": [
+    "Thanks for the invitation to the party."
+   ]
+  },
+  {
+   "rule": "**with** — *a relationship / contact / connection with*; **between** — *a difference between* two things.",
+   "examples": [
+    "What's the difference between them?"
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "I got a cheque ... $750.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "with",
+    "by",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-1"
+  },
+  {
+   "text": "There is a great demand ... this product.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "of",
+    "by",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-2"
+  },
+  {
+   "text": "A plastic bag? No, thanks. There's no need ... it.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "of",
+    "by",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-3"
+  },
+  {
+   "text": "I don't have any reason ... it.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "of",
+    "by",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-4"
+  },
+  {
+   "text": "The main advantage ... living in a city is good transport.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "in",
+    "to",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-5"
+  },
+  {
+   "text": "The cause ... the fire is still unknown.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "in",
+    "to",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-6"
+  },
+  {
+   "text": "A map ... the castle was made in the 19th century.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "of",
+    "in",
+    "to",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-7"
+  },
+  {
+   "text": "%1 ... the number of players was big last year.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "of",
+    "in",
+    "to",
+    "by"
+   ],
+   "args": [
+    [
+     "An increase",
+     "A decrease",
+     "A rise",
+     "A fall"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-8"
+  },
+  {
+   "text": "The damage ... the car is serious.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "in",
+    "to",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-9"
+  },
+  {
+   "text": "The invitation ... the party is still valid.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "in",
+    "to",
+    "by"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-10"
+  },
+  {
+   "text": "A solution ... the problem is not easy to find.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "to",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-11"
+  },
+  {
+   "text": "The key ... success is practice.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "to",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-12"
+  },
+  {
+   "text": "The answer ... this question is simple.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "to",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-13"
+  },
+  {
+   "text": "A reply ... the letter was sent last week.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "to",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-14"
+  },
+  {
+   "text": "Her reaction ... the news was positive.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "of",
+    "to",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-15"
+  },
+  {
+   "text": "His attitude ... lessons is bad.",
+   "answer": [
+    "to",
+    "towards"
+   ],
+   "options": [
+    "of",
+    "to",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-16"
+  },
+  {
+   "text": "His %1 ... his colleagues is good.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "with",
+    "to",
+    "for"
+   ],
+   "args": [
+    [
+     "relationship",
+     "contact"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-17"
+  },
+  {
+   "text": "What's the difference ... these two words?",
+   "answer": [
+    "between"
+   ],
+   "options": [
+    "with",
+    "to",
+    "for",
+    "between"
+   ],
+   "type": "choice",
+   "skill": "prep-noun",
+   "id": "prep-noun-18"
+  }
+ ]
+}

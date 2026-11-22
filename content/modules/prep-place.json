@@ -1,0 +1,575 @@
+{
+ "id": "prep-place",
+ "title": "Prepositions of place",
+ "summary": "at the bus stop, in the garden, on the wall",
+ "rules": [
+  {
+   "rule": "**at** — a point or a place where something happens: *at the bus stop, at the door, at the top, at work, at school, at home*.",
+   "examples": [
+    "We waited at the bus stop.",
+    "She is at work."
+   ]
+  },
+  {
+   "rule": "**in** — inside an area or space: *in the garden, in my pocket, in a car, in Moscow, in bed, in the sky*.",
+   "examples": [
+    "The money is in my wallet.",
+    "They are in the car."
+   ]
+  },
+  {
+   "rule": "**on** — on a surface or line: *on the wall, on the floor, on a page, on the radio, on TV, on a bus / train / plane / bike*.",
+   "examples": [
+    "There is a picture on the wall.",
+    "I heard it on the radio."
+   ]
+  },
+  {
+   "rule": "**by** + transport with no article: *by bus, by car, by train*. But **in** a car / taxi, **on** a bus / train / horse.",
+   "examples": [
+    "We came by train.",
+    "She arrived in a taxi."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "She is ... %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "school",
+     "university",
+     "work",
+     "home"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-1"
+  },
+  {
+   "text": "She is ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "bed",
+     "prison"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-2"
+  },
+  {
+   "text": "She is ... hospital.",
+   "answer": [
+    "in",
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-3"
+  },
+  {
+   "text": "They got married ... a church.",
+   "answer": [
+    "in",
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-4"
+  },
+  {
+   "text": "... the church I saw a beautiful old mosaic.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-5"
+  },
+  {
+   "text": "We should wait ... %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "the corner",
+     "the bus stop",
+     "the door",
+     "the entrance"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-6"
+  },
+  {
+   "text": "He stopped reading ... %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "the top of the page",
+     "the end of the page"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-7"
+  },
+  {
+   "text": "He sat ... the desk.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-8"
+  },
+  {
+   "text": "She was reading ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "the garden",
+     "the house"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-9"
+  },
+  {
+   "text": "There is a statue of Peter the Great ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "Moscow",
+     "Saint Petersburg"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-10"
+  },
+  {
+   "text": "French is an official language ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "France",
+     "Canada",
+     "Belgium"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-11"
+  },
+  {
+   "text": "There is something ... my pocket.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-12"
+  },
+  {
+   "text": "The money was ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "my wallet",
+     "my bag"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-13"
+  },
+  {
+   "text": "I lost my keys ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "the building",
+     "my car"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-14"
+  },
+  {
+   "text": "There is a painting ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "the wall",
+     "the door",
+     "the ceiling"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-15"
+  },
+  {
+   "text": "There is a picture ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "the cover",
+     "the first page"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-16"
+  },
+  {
+   "text": "There is a puddle ... the floor.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-17"
+  },
+  {
+   "text": "His name is ... %1 of the list.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "the top",
+     "the bottom"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-18"
+  },
+  {
+   "text": "We were both ... %1 that day.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "a car",
+     "a taxi",
+     "a helicopter"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-19"
+  },
+  {
+   "text": "We talked ... the lift.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-20"
+  },
+  {
+   "text": "The moon is ... the sky.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-21"
+  },
+  {
+   "text": "The interview was published ... the newspaper.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-22"
+  },
+  {
+   "text": "We sat ... the front row.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-23"
+  },
+  {
+   "text": "We met ... Oxford Street.",
+   "answer": [
+    "in",
+    "on"
+   ],
+   "explain": "British English: in Oxford Street; American: on Main Street.",
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-24"
+  },
+  {
+   "text": "We came here ... %1.",
+   "answer": [
+    "by"
+   ],
+   "options": [
+    "by",
+    "on",
+    "at",
+    "in"
+   ],
+   "args": [
+    [
+     "bus",
+     "train",
+     "plane",
+     "car"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-25"
+  },
+  {
+   "text": "This time I came ... %1.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "by",
+    "on",
+    "at",
+    "in"
+   ],
+   "args": [
+    [
+     "a horse",
+     "a motorbike",
+     "a bike"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-26"
+  },
+  {
+   "text": "I heard her interview ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "the radio",
+     "TV"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-27"
+  },
+  {
+   "text": "... the way here, I bought %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "some flowers",
+     "a coffee"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-28"
+  },
+  {
+   "text": "Meet me ... the station.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-29"
+  },
+  {
+   "text": "The cat is sleeping ... the sofa.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-place",
+   "id": "prep-place-30"
+  }
+ ]
+}

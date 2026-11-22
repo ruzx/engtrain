@@ -1,0 +1,378 @@
+{
+ "id": "prep-movement",
+ "title": "To, at, in, into",
+ "summary": "go to, arrive at / in, get into",
+ "rules": [
+  {
+   "rule": "**go / come / travel to** a place: *go to Rome, go to a party, go to bed*.",
+   "examples": [
+    "I'm going to a concert tonight."
+   ]
+  },
+  {
+   "rule": "**been to** = visited: *I've been to Italy.*",
+   "examples": [
+    "I've never been to Rome."
+   ]
+  },
+  {
+   "rule": "**arrive in** a city or country, **arrive at** other places: *arrive in Madrid, arrive at the hotel*.",
+   "examples": [
+    "We arrived in Spain on Monday.",
+    "We arrived at the hotel late."
+   ]
+  },
+  {
+   "rule": "**home** — no preposition after *go, come, get, arrive*; but **at home**.",
+   "examples": [
+    "Let's go home.",
+    "Stay at home today."
+   ]
+  },
+  {
+   "rule": "**into** = movement inside; **out of** = movement outside; **get on / off** a bus, train, plane.",
+   "examples": [
+    "He got into the car.",
+    "She got off the bus."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "I want to go ... %1.",
+   "answer": [
+    "to"
+   ],
+   "args": [
+    [
+     "Europe",
+     "America"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-1"
+  },
+  {
+   "text": "I need to go ... %1.",
+   "answer": [
+    "to"
+   ],
+   "args": [
+    [
+     "bed",
+     "the bank",
+     "the doctor"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-2"
+  },
+  {
+   "text": "We are going ... %1.",
+   "answer": [
+    "to"
+   ],
+   "args": [
+    [
+     "a concert",
+     "a party"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-3"
+  },
+  {
+   "text": "Are you coming ... the party?",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-4"
+  },
+  {
+   "text": "Injured people were taken ... hospital.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-5"
+  },
+  {
+   "text": "I've never been ... %1.",
+   "answer": [
+    "to"
+   ],
+   "args": [
+    [
+     "Italy",
+     "Rome",
+     "a hockey match"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-6"
+  },
+  {
+   "text": "How did they get ... %1?",
+   "answer": [
+    "to"
+   ],
+   "args": [
+    [
+     "Paris",
+     "work",
+     "the party"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-7"
+  },
+  {
+   "text": "When did you arrive ... %1?",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "Madrid",
+     "Spain",
+     "Colombia"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-8"
+  },
+  {
+   "text": "When did you arrive ... %1?",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "the hotel",
+     "the party",
+     "work"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-9"
+  },
+  {
+   "text": "It's late. We should %1 ... home.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "no preposition"
+   ],
+   "args": [
+    [
+     "go",
+     "get"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-10"
+  },
+  {
+   "text": "We arrived ... home late.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-11"
+  },
+  {
+   "text": "Stay ... home today.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-12"
+  },
+  {
+   "text": "He got ... the car and drove away.",
+   "answer": [
+    "into"
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-13"
+  },
+  {
+   "text": "%1 flew ... the kitchen through the window.",
+   "answer": [
+    "into"
+   ],
+   "args": [
+    [
+     "A bird",
+     "A bee",
+     "An owl"
+    ]
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-14"
+  },
+  {
+   "text": "He got out ... the %1 and went into a shop.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "to",
+    "at",
+    "of",
+    "into"
+   ],
+   "args": [
+    [
+     "car",
+     "taxi"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-15"
+  },
+  {
+   "text": "He got ... the bus and sat by the window.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "in",
+    "into",
+    "at"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-16"
+  },
+  {
+   "text": "He got ... the bus and walked into a building.",
+   "answer": [
+    "off"
+   ],
+   "options": [
+    "on",
+    "off",
+    "into",
+    "to"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-17"
+  },
+  {
+   "text": "Welcome ... London!",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "to",
+    "at",
+    "in",
+    "into"
+   ],
+   "type": "choice",
+   "skill": "prep-movement",
+   "id": "prep-movement-18"
+  }
+ ]
+}

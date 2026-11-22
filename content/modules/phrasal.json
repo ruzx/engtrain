@@ -1,0 +1,1528 @@
+{
+ "id": "phrasal",
+ "title": "Phrasal verbs",
+ "summary": "get up, look after, give up",
+ "rules": [
+  {
+   "rule": "A phrasal verb = verb + particle. The meaning is often new: *give up* = stop doing, *look after* = take care of.",
+   "examples": [
+    "I gave up smoking.",
+    "Can you look after my cat?"
+   ]
+  },
+  {
+   "rule": "**up** often means *completely* or *increase*: *eat up, clean up, speed up, turn up the volume*.",
+   "examples": [
+    "Turn the music up!"
+   ]
+  },
+  {
+   "rule": "**out** — *away / finish / discover*: *go out, run out of, find out, sold out*.",
+   "examples": [
+    "We've run out of milk."
+   ]
+  },
+  {
+   "rule": "**on / off** — *start / stop, wear / remove*: *turn on, put on, take off, call off*.",
+   "examples": [
+    "Take off your shoes, please."
+   ]
+  },
+  {
+   "rule": "Learn them in sentences, not as lists: the example helps you remember the meaning.",
+   "examples": [
+    "The meeting was called off because of the weather."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "We're going ... to a restaurant tonight.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-1"
+  },
+  {
+   "text": "We are moving ... to this new apartment, finally.",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-2"
+  },
+  {
+   "text": "Look ...! There's a car coming!",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-3"
+  },
+  {
+   "text": "I usually get ... at 7 am in the morning.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-4"
+  },
+  {
+   "text": "Could you wake me ... at 6 am? I have an important meeting.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-5"
+  },
+  {
+   "text": "This work is not good enough. You need to do it ...",
+   "answer": [
+    "over",
+    "again"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-6"
+  },
+  {
+   "text": "I need to log ... and check my email.",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-7"
+  },
+  {
+   "text": "Don't forget to log ... after finishing your work.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-8"
+  },
+  {
+   "text": "The thieves tried to break ... the house last night.",
+   "answer": [
+    "into"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-9"
+  },
+  {
+   "text": "I came ... an old friend in the supermarket yesterday.",
+   "answer": [
+    "across"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-10"
+  },
+  {
+   "text": "I'm busy now, can I call you ... later?",
+   "answer": [
+    "back"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-11"
+  },
+  {
+   "text": "We need to check ... at the hotel before 3 pm.",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-12"
+  },
+  {
+   "text": "Please write ... this important information.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-13"
+  },
+  {
+   "text": "I'm looking ... my keys. Have you seen them?",
+   "answer": [
+    "for"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-14"
+  },
+  {
+   "text": "She gets ... well with her colleagues.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-15"
+  },
+  {
+   "text": "Please get ... the bus carefully.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-16"
+  },
+  {
+   "text": "When will you come ... from your trip?",
+   "answer": [
+    "back"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-17"
+  },
+  {
+   "text": "It's cold outside, put ... your warm coat.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-18"
+  },
+  {
+   "text": "You need to take ... your shoes before entering.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-19"
+  },
+  {
+   "text": "Please come ... and have a seat.",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-20"
+  },
+  {
+   "text": "Prices are going ... because of inflation.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-21"
+  },
+  {
+   "text": "Children grow ... so fast these days.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-22"
+  },
+  {
+   "text": "Can you turn ... the lights? It's too dark.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-23"
+  },
+  {
+   "text": "Please turn ... the music, it's too loud.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-24"
+  },
+  {
+   "text": "Can you speak ...? I can't hear you.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-25"
+  },
+  {
+   "text": "Sorry, John is ... at the moment.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-26"
+  },
+  {
+   "text": "We need to do ... the old house.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-27"
+  },
+  {
+   "text": "They decided to call ... the meeting due to bad weather.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-28"
+  },
+  {
+   "text": "We have to put ... the meeting until next week.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-29"
+  },
+  {
+   "text": "Hurry ... or we'll be late!",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-30"
+  },
+  {
+   "text": "The child tried to run ... from home.",
+   "answer": [
+    "away"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-31"
+  },
+  {
+   "text": "I decided to give ... smoking last year.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-32"
+  },
+  {
+   "text": "I'm really looking forward ... seeing you again.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-33"
+  },
+  {
+   "text": "Please look ... this document carefully.",
+   "answer": [
+    "at",
+    "through",
+    "over"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-34"
+  },
+  {
+   "text": "The police will look ... this matter.",
+   "answer": [
+    "into"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-35"
+  },
+  {
+   "text": "Can you help me wash ... after dinner?",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-36"
+  },
+  {
+   "text": "Please go ... with your story, it's interesting.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-37"
+  },
+  {
+   "text": "We need to carry ... more research on this topic.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-38"
+  },
+  {
+   "text": "The car began to speed ... when we reached the highway.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-39"
+  },
+  {
+   "text": "Please slow ... in this area, there are children playing.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-40"
+  },
+  {
+   "text": "Can you look ... the cat? I'll be back tomorrow.",
+   "answer": [
+    "after"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-41"
+  },
+  {
+   "text": "She takes ... her mother in appearance.",
+   "answer": [
+    "after"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-42"
+  },
+  {
+   "text": "Don't look ..., focus on the future.",
+   "answer": [
+    "back"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-43"
+  },
+  {
+   "text": "I need to look ... this report before the meeting.",
+   "answer": [
+    "through"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-44"
+  },
+  {
+   "text": "How did you get ... such trouble?",
+   "answer": [
+    "into"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-45"
+  },
+  {
+   "text": "You need to focus ... your studies.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-46"
+  },
+  {
+   "text": "I'm saving ... for a new car.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-47"
+  },
+  {
+   "text": "My car broke ... on the way to work.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-48"
+  },
+  {
+   "text": "They decided to break ... after three years together.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-49"
+  },
+  {
+   "text": "We're running ... of milk, can you buy some?",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-50"
+  },
+  {
+   "text": "Please stand ... when the teacher enters.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-51"
+  },
+  {
+   "text": "You can sit ... and relax here.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-52"
+  },
+  {
+   "text": "I'm fed up ... your constant complaints.",
+   "answer": [
+    "with"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-53"
+  },
+  {
+   "text": "You should lie ... and rest for a while.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-54"
+  },
+  {
+   "text": "If you don't know the word, look it ... in the dictionary.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-55"
+  },
+  {
+   "text": "Many people look up ... their parents.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-56"
+  },
+  {
+   "text": "She looks down ... people who are less educated.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-57"
+  },
+  {
+   "text": "The product didn't live up ... our expectations.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-58"
+  },
+  {
+   "text": "Can you help me ... with this project?",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-59"
+  },
+  {
+   "text": "You need to dress ... for the formal event.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-60"
+  },
+  {
+   "text": "What are you trying to get ...?",
+   "answer": [
+    "at"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-61"
+  },
+  {
+   "text": "I bumped ... an old friend in the city center.",
+   "answer": [
+    "into"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-62"
+  },
+  {
+   "text": "We plan to set ... early in the morning.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-63"
+  },
+  {
+   "text": "I'd like to point ... several important issues.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-64"
+  },
+  {
+   "text": "I can't figure ... how this machine works.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-65"
+  },
+  {
+   "text": "Children often make ... stories about monsters.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-66"
+  },
+  {
+   "text": "I've made ... my mind to learn Spanish this year.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-67"
+  },
+  {
+   "text": "Let's meet ... for coffee next week.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-68"
+  },
+  {
+   "text": "To sum ..., we need to work harder.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-69"
+  },
+  {
+   "text": "I need to catch up ... the latest news.",
+   "answer": [
+    "with"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-70"
+  },
+  {
+   "text": "Come ...! We're going to be late.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-71"
+  },
+  {
+   "text": "They often fall ... about small things.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-72"
+  },
+  {
+   "text": "He always tries to show ... with his knowledge.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-73"
+  },
+  {
+   "text": "Why didn't you show ... at the party?",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-74"
+  },
+  {
+   "text": "I know I can count ... you for help.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-75"
+  },
+  {
+   "text": "Don't let them take you ...",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-76"
+  },
+  {
+   "text": "I'll see you ... at the airport.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-77"
+  },
+  {
+   "text": "The flowers give ... a pleasant fragrance.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-78"
+  },
+  {
+   "text": "He passed ... from exhaustion.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-79"
+  },
+  {
+   "text": "Hold ... a minute, I'll check.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-80"
+  },
+  {
+   "text": "We managed to get ... the whole museum in one day.",
+   "answer": [
+    "round"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-81"
+  },
+  {
+   "text": "It's hard to get ... complex ideas to beginners.",
+   "answer": [
+    "across"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-82"
+  },
+  {
+   "text": "The car almost ran ... a dog.",
+   "answer": [
+    "over"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-83"
+  },
+  {
+   "text": "The teacher read ... the instructions to the class.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-84"
+  },
+  {
+   "text": "I'll drop in ... you on my way home.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-85"
+  },
+  {
+   "text": "This theory is based ... extensive research.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-86"
+  },
+  {
+   "text": "Can you print ... this document for me?",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-87"
+  },
+  {
+   "text": "Don't mix ... the dates, they're important.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-88"
+  },
+  {
+   "text": "I think I'll stay ... tonight and watch a movie.",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-89"
+  },
+  {
+   "text": "Let's eat ... tonight, I don't want to cook.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-90"
+  },
+  {
+   "text": "They often stay ... late on weekends.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-91"
+  },
+  {
+   "text": "Can you pick me ... from the station?",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-92"
+  },
+  {
+   "text": "We need to sort ... this problem quickly.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-93"
+  },
+  {
+   "text": "Breathe ... deeply and relax.",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-94"
+  },
+  {
+   "text": "Don't forget to back ... your files regularly.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-95"
+  },
+  {
+   "text": "I work ... three times a week at the gym.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-96"
+  },
+  {
+   "text": "You should try ... the new software before buying.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-97"
+  },
+  {
+   "text": "I finally got ... to the manager after many attempts.",
+   "answer": [
+    "through"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-98"
+  },
+  {
+   "text": "They decided to set ... their own business.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-99"
+  },
+  {
+   "text": "We might come up ... some difficulties.",
+   "answer": [
+    "against"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-100"
+  },
+  {
+   "text": "The publisher will come ... the book next month.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-101"
+  },
+  {
+   "text": "The milk has gone ..., don't drink it.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-102"
+  },
+  {
+   "text": "The company had to close ... due to financial problems.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-103"
+  },
+  {
+   "text": "He nodded ... during the boring lecture.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-104"
+  },
+  {
+   "text": "Let's put ... this poster in the living room.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-105"
+  },
+  {
+   "text": "I can't put up ... his bad behavior anymore.",
+   "answer": [
+    "with"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-106"
+  },
+  {
+   "text": "I need to find ... when the store opens.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-107"
+  },
+  {
+   "text": "The concert tickets sold ... in one hour.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-108"
+  },
+  {
+   "text": "I need to think ... this proposal carefully.",
+   "answer": [
+    "over"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-109"
+  },
+  {
+   "text": "Cheer ...! Things will get better.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-110"
+  },
+  {
+   "text": "I've used ... all the paper for printing.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-111"
+  },
+  {
+   "text": "Please fill ... your personal details here.",
+   "answer": [
+    "in"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-112"
+  },
+  {
+   "text": "We need to do something ... this situation.",
+   "answer": [
+    "about"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-113"
+  },
+  {
+   "text": "The big company wants to take ... our small business.",
+   "answer": [
+    "over"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-114"
+  },
+  {
+   "text": "Don't hold ... your emotions.",
+   "answer": [
+    "back"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-115"
+  },
+  {
+   "text": "Let's put ... some money for our vacation.",
+   "answer": [
+    "aside"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-116"
+  },
+  {
+   "text": "Quick, put ... the fire!",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-117"
+  },
+  {
+   "text": "Cross ... the wrong answer and write the correct one.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-118"
+  },
+  {
+   "text": "He decided to drop out ... college and start working.",
+   "answer": [
+    "of"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-119"
+  },
+  {
+   "text": "You need to face up ... your responsibilities.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-120"
+  },
+  {
+   "text": "All our efforts finally paid ...",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-121"
+  },
+  {
+   "text": "Water consists ... hydrogen and oxygen.",
+   "answer": [
+    "of"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-122"
+  },
+  {
+   "text": "The teacher gave ... the exam papers.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-123"
+  },
+  {
+   "text": "Calm ...! Everything will be fine.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-124"
+  },
+  {
+   "text": "We have to deal ... this problem immediately.",
+   "answer": [
+    "with"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-125"
+  },
+  {
+   "text": "It took me weeks to get ... the flu.",
+   "answer": [
+    "over"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-126"
+  },
+  {
+   "text": "This song brings ... childhood memories.",
+   "answer": [
+    "back"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-127"
+  },
+  {
+   "text": "I need to brush up ... my French before the trip.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-128"
+  },
+  {
+   "text": "Don't leave ... any important details.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-129"
+  },
+  {
+   "text": "We've gone ... a lot of difficulties recently.",
+   "answer": [
+    "through"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-130"
+  },
+  {
+   "text": "They decided to settle ... and buy a house.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-131"
+  },
+  {
+   "text": "Can I try ... this dress before buying it?",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-132"
+  },
+  {
+   "text": "The old book fell ... in my hands.",
+   "answer": [
+    "apart"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-133"
+  },
+  {
+   "text": "I need to cut down ... smoking.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-134"
+  },
+  {
+   "text": "It turned ... that he was right all along.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-135"
+  },
+  {
+   "text": "I was taken aback ... the news.",
+   "answer": [
+    "by"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-136"
+  },
+  {
+   "text": "Let's get down ... business.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-137"
+  },
+  {
+   "text": "The old building burned ... in the fire.",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-138"
+  },
+  {
+   "text": "I'm shopping around ... a new laptop.",
+   "answer": [
+    "for"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-139"
+  },
+  {
+   "text": "The product doesn't measure up ... our standards.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-140"
+  },
+  {
+   "text": "It's up ... you to decide.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-141"
+  },
+  {
+   "text": "Can you wrap ... this gift for me?",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-142"
+  },
+  {
+   "text": "I stick ... my original plan.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-143"
+  },
+  {
+   "text": "His grandfather passed ... last year.",
+   "answer": [
+    "away"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-144"
+  },
+  {
+   "text": "Don't hang ... on me, I need to tell you something important.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-145"
+  },
+  {
+   "text": "The soldiers had to blow ... the bridge.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-146"
+  },
+  {
+   "text": "I need to get rid ... these old clothes.",
+   "answer": [
+    "of"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-147"
+  },
+  {
+   "text": "Be careful, they might rip you ... in that market.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-148"
+  },
+  {
+   "text": "Please keep ... the grass.",
+   "answer": [
+    "off"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-149"
+  },
+  {
+   "text": "Sorry I'm late, I was held ... in traffic.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-150"
+  },
+  {
+   "text": "The medicine made me throw ...",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-151"
+  },
+  {
+   "text": "My computer is acting ... again.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-152"
+  },
+  {
+   "text": "The government had to bail ... the bank.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-153"
+  },
+  {
+   "text": "Don't answer ... to your parents!",
+   "answer": [
+    "back"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-154"
+  },
+  {
+   "text": "I need to take ... some money from the ATM.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-155"
+  },
+  {
+   "text": "The war broke ... in 1939.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-156"
+  },
+  {
+   "text": "Her talent stood ... among other candidates.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-157"
+  },
+  {
+   "text": "The government will clamp down ... illegal activities.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-158"
+  },
+  {
+   "text": "We need to take ... two new employees.",
+   "answer": [
+    "on"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-159"
+  },
+  {
+   "text": "He wants to ask her ... for dinner.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-160"
+  },
+  {
+   "text": "He got away ... cheating on the exam.",
+   "answer": [
+    "with"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-161"
+  },
+  {
+   "text": "She burst ... laughing when she saw the costume.",
+   "answer": [
+    "out"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-162"
+  },
+  {
+   "text": "The noise gradually died ...",
+   "answer": [
+    "down"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-163"
+  },
+  {
+   "text": "He tore ... the letter in anger.",
+   "answer": [
+    "up"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-164"
+  },
+  {
+   "text": "He finally owned up ... breaking the window.",
+   "answer": [
+    "to"
+   ],
+   "type": "text",
+   "skill": "phrasal",
+   "id": "phrasal-165"
+  }
+ ]
+}

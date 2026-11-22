@@ -1,0 +1,581 @@
+{
+ "id": "prep-time",
+ "title": "Prepositions of time",
+ "summary": "at 5 o'clock, on Monday, in May",
+ "rules": [
+  {
+   "rule": "**at** + clock time and points: *at 5 o'clock, at noon, at night, at the weekend (UK), at Christmas, at the moment*.",
+   "examples": [
+    "We have tea at 5 o'clock.",
+    "Stars shine at night."
+   ]
+  },
+  {
+   "rule": "**on** + days and dates: *on Monday, on Friday evenings, on 6 June, on my birthday, on Christmas Day*.",
+   "examples": [
+    "We play cards on Friday evenings.",
+    "Pushkin was born on 6 June 1799."
+   ]
+  },
+  {
+   "rule": "**in** + longer periods: *in May, in summer, in 2010, in the 19th century, in the morning, in the future*.",
+   "examples": [
+    "We got married in June.",
+    "I usually run in the morning."
+   ]
+  },
+  {
+   "rule": "**No preposition** before *last, next, this, every, yesterday, tomorrow*.",
+   "examples": [
+    "I saw her last week.",
+    "We will finish it next year."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "We're having a party ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "Monday",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Friday",
+     "Saturday",
+     "Sunday"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-1"
+  },
+  {
+   "text": "We play cards ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "Saturday evenings",
+     "Sunday evenings",
+     "Fridays"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-2"
+  },
+  {
+   "text": "We have English lessons ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "Monday evenings",
+     "Wednesday evenings"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-3"
+  },
+  {
+   "text": "We play basketball ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "Saturday afternoons",
+     "Sunday afternoons"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-4"
+  },
+  {
+   "text": "We make pancakes ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "Saturday mornings",
+     "Sunday mornings"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-5"
+  },
+  {
+   "text": "Pushkin was born ... 6 June 1799.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-6"
+  },
+  {
+   "text": "We're going home ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "Christmas Day",
+     "Christmas Eve",
+     "Thanksgiving Day"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-7"
+  },
+  {
+   "text": "We're going home ... %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "Christmas",
+     "Easter"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-8"
+  },
+  {
+   "text": "We're going to the water park ... my birthday.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-9"
+  },
+  {
+   "text": "I got a new bike ... %1.",
+   "answer": [
+    "on"
+   ],
+   "args": [
+    [
+     "my birthday",
+     "New Year's Eve"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-10"
+  },
+  {
+   "text": "We got married ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "January",
+     "February",
+     "March",
+     "April",
+     "May",
+     "June",
+     "July",
+     "August",
+     "September",
+     "October",
+     "November",
+     "December"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-11"
+  },
+  {
+   "text": "We did it ... %1.",
+   "answer": [
+    "in"
+   ],
+   "args": [
+    [
+     "the morning",
+     "the afternoon",
+     "the evening"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-12"
+  },
+  {
+   "text": "This house was built ... %1.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in",
+    "no preposition"
+   ],
+   "args": [
+    [
+     "the 2010s",
+     "the 19th century",
+     "1995"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-13"
+  },
+  {
+   "text": "People made tools like this ... %1.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in",
+    "no preposition"
+   ],
+   "args": [
+    [
+     "the Stone Age",
+     "the Bronze Age"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-14"
+  },
+  {
+   "text": "I saw her ... %1.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in",
+    "no preposition"
+   ],
+   "args": [
+    [
+     "last week",
+     "yesterday",
+     "this morning"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-15"
+  },
+  {
+   "text": "Things were different ... the past.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-16"
+  },
+  {
+   "text": "We hope to do it ... the future.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-17"
+  },
+  {
+   "text": "We hope to do it ... next year.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-18"
+  },
+  {
+   "text": "We usually have tea ... %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "3 o'clock",
+     "5 o'clock"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-19"
+  },
+  {
+   "text": "We have a meeting ... %1. Don't be late!",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "11 o'clock",
+     "10:30"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-20"
+  },
+  {
+   "text": "I like to have a nap ... lunchtime.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-21"
+  },
+  {
+   "text": "Let's go for a bike ride ... %1.",
+   "answer": [
+    "at"
+   ],
+   "args": [
+    [
+     "noon",
+     "sunrise",
+     "sunset"
+    ]
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-22"
+  },
+  {
+   "text": "I read stories to my children ... bedtime.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-23"
+  },
+  {
+   "text": "I can't help you ... the moment.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-24"
+  },
+  {
+   "text": "I usually write articles ... weekends.",
+   "answer": [
+    "at",
+    "on"
+   ],
+   "explain": "British: at the weekend(s); American: on the weekend(s).",
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-25"
+  },
+  {
+   "text": "Stars shine ... night.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-26"
+  },
+  {
+   "text": "Mr Smith is busy ... present.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-27"
+  },
+  {
+   "text": "We finished ... the same time.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-28"
+  },
+  {
+   "text": "It often snows here ... winter.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-29"
+  },
+  {
+   "text": "The shop opens ... 9 a.m.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "on",
+    "at",
+    "in"
+   ],
+   "type": "choice",
+   "skill": "prep-time",
+   "id": "prep-time-30"
+  }
+ ]
+}

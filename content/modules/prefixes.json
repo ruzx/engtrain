@@ -1,0 +1,299 @@
+{
+ "id": "prefixes",
+ "title": "Negative prefixes",
+ "summary": "un-, in-, im-, il-, ir-, dis-, mis-, de-, non-",
+ "rules": [
+  {
+   "rule": "**un-** is the most common: *unhappy, unbelievable, unfair, unusual*.",
+   "examples": [
+    "That story is unbelievable."
+   ]
+  },
+  {
+   "rule": "**in-** with many Latin words; **im-** before *m, p, b*; **il-** before *l*; **ir-** before *r*: *incorrect, impossible, illegal, irregular*.",
+   "examples": [
+    "It's impossible!",
+    "Parking here is illegal."
+   ]
+  },
+  {
+   "rule": "**dis-** = not / the opposite: *disagree, dislike, dishonest*. **mis-** = wrongly: *misunderstand, misspell*.",
+   "examples": [
+    "I disagree with you.",
+    "Sorry, I misunderstood you."
+   ]
+  },
+  {
+   "rule": "**de-** = remove / reverse: *defrost, decode*. **non-** = not: *non-stop, non-smoker*. **a- / ab-**: *abnormal*. **anti-** = against: *antivirus*.",
+   "examples": [
+    "Defrost the chicken first."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "It is ... (not possible) to do that.",
+   "answer": [
+    "impossible"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-1"
+  },
+  {
+   "text": "Your homework is ... (not adequate). Please do it again.",
+   "answer": [
+    "inadequate"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-2"
+  },
+  {
+   "text": "It was ... (not responsible) to leave your little brother alone.",
+   "answer": [
+    "irresponsible"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-3"
+  },
+  {
+   "text": "The story was totally ... (not believable).",
+   "answer": [
+    "unbelievable"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-4"
+  },
+  {
+   "text": "Parking here is ... (not legal).",
+   "answer": [
+    "illegal"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-5"
+  },
+  {
+   "text": "\"Go — went — gone\" is an ... (not regular) verb.",
+   "answer": [
+    "irregular"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-6"
+  },
+  {
+   "text": "Your answer is ... (not correct).",
+   "answer": [
+    "incorrect"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-7"
+  },
+  {
+   "text": "He is a very ... (not patient) driver.",
+   "answer": [
+    "impatient"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-8"
+  },
+  {
+   "text": "That's ... (not fair)!",
+   "answer": [
+    "unfair"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-9"
+  },
+  {
+   "text": "I'm ... (not happy) with the result.",
+   "answer": [
+    "unhappy"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-10"
+  },
+  {
+   "text": "It is ... (not usual) to see snow here in May.",
+   "answer": [
+    "unusual"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-11"
+  },
+  {
+   "text": "This room is very ... (not tidy).",
+   "answer": [
+    "untidy"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-12"
+  },
+  {
+   "text": "Don't be so ... (not polite)!",
+   "answer": [
+    "impolite"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-13"
+  },
+  {
+   "text": "He is ... (not honest). He often lies.",
+   "answer": [
+    "dishonest"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-14"
+  },
+  {
+   "text": "I ... (not agree) with you.",
+   "answer": [
+    "disagree"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-15"
+  },
+  {
+   "text": "I ... (not like) cold weather.",
+   "answer": [
+    "dislike"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-16"
+  },
+  {
+   "text": "Sorry, I ... (understood wrongly) you.",
+   "answer": [
+    "misunderstood"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-17"
+  },
+  {
+   "text": "You ... (spelled wrongly) my name.",
+   "answer": [
+    "misspelled",
+    "misspelt"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-18"
+  },
+  {
+   "text": "I made a bad decision because I was ... (informed wrongly).",
+   "answer": [
+    "misinformed"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-19"
+  },
+  {
+   "text": "Take the chicken out of the freezer to ... (remove the frost).",
+   "answer": [
+    "defrost"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-20"
+  },
+  {
+   "text": "You need to ... (take apart) the bed before moving it.",
+   "answer": [
+    "disassemble"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-21"
+  },
+  {
+   "text": "The train ... (went off the rails) yesterday.",
+   "answer": [
+    "derailed"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-22"
+  },
+  {
+   "text": "You can ... (undo the code) the message with this key.",
+   "answer": [
+    "decode"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-23"
+  },
+  {
+   "text": "This is a ... (not stop) flight to London.",
+   "answer": [
+    "non-stop",
+    "nonstop"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-24"
+  },
+  {
+   "text": "He's a ... (not smoker).",
+   "answer": [
+    "non-smoker",
+    "nonsmoker"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-25"
+  },
+  {
+   "text": "His temperature is ... (not normal).",
+   "answer": [
+    "abnormal"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-26"
+  },
+  {
+   "text": "Install ... (against virus) software on your computer.",
+   "answer": [
+    "antivirus"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-27"
+  },
+  {
+   "text": "Clean the wound and ... (remove infection) it.",
+   "answer": [
+    "disinfect"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-28"
+  },
+  {
+   "text": "They ... (not trust) each other.",
+   "answer": [
+    "distrust"
+   ],
+   "type": "text",
+   "skill": "prefixes",
+   "id": "prefixes-29"
+  }
+ ]
+}

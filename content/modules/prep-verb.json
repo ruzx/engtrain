@@ -1,0 +1,1120 @@
+{
+ "id": "prep-verb",
+ "title": "Prepositions after verbs",
+ "summary": "look at, listen to, depend on, think about",
+ "rules": [
+  {
+   "rule": "**at**: *look / stare / glance / laugh / point / shout (angrily) / throw (to hit) at*.",
+   "examples": [
+    "Look at her!",
+    "Don't shout at me!"
+   ]
+  },
+  {
+   "rule": "**to**: *listen / talk / write / explain / describe (something) to someone, invite to, throw (to catch) to*.",
+   "examples": [
+    "Explain it to me, please.",
+    "I listened to the radio."
+   ]
+  },
+  {
+   "rule": "**No preposition**: *phone / call someone, discuss something, ask someone, I'm sorry (that)…*",
+   "examples": [
+    "We discussed the plan.",
+    "Call me tomorrow."
+   ]
+  },
+  {
+   "rule": "**about / of**: *talk / care / dream / hear / think / complain / warn about*; *dream / hear / think of*; *remind of* (= similar), *remind about* (= don't forget).",
+   "examples": [
+    "This photo reminds me of my home town.",
+    "I don't care about money."
+   ]
+  },
+  {
+   "rule": "**for**: *look / ask / apply / pay / thank / blame for*; **on**: *depend / rely / live / concentrate / insist / spend money on*; **of**: *accuse / suspect / consist / die of*; **in**: *believe / specialise / succeed in*; **into**: *break / crash / cut / translate into*; **from**: *suffer / protect from*.",
+   "examples": [
+    "It depends on the weather.",
+    "I believe in you."
+   ]
+  }
+ ],
+ "questions": [
+  {
+   "text": "Look ... her! She looks great.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-1"
+  },
+  {
+   "text": "The cat stared ... the food until I fed it.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-2"
+  },
+  {
+   "text": "I glanced ... the question and wrote the answer.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on",
+    "over"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-3"
+  },
+  {
+   "text": "She laughed ... the joke.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-4"
+  },
+  {
+   "text": "He %1 the camera ... me.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "args": [
+    [
+     "aimed",
+     "pointed"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-5"
+  },
+  {
+   "text": "I talked ... my father yesterday.",
+   "answer": [
+    "to",
+    "with"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-6"
+  },
+  {
+   "text": "The baby listened ... the music.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-7"
+  },
+  {
+   "text": "I wrote a letter ... the company.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-8"
+  },
+  {
+   "text": "I invited them ... the party.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-9"
+  },
+  {
+   "text": "You need to %1 ... him now!",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on",
+    "no preposition"
+   ],
+   "args": [
+    [
+     "phone",
+     "call"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-10"
+  },
+  {
+   "text": "She shouted ... him angrily.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-11"
+  },
+  {
+   "text": "She shouted ... him: 'Run faster!'",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "explain": "\"Shout to\" = so that someone can hear you; \"shout at\" = angrily.",
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-12"
+  },
+  {
+   "text": "I threw the ball ... the target and hit it.",
+   "answer": [
+    "at"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-13"
+  },
+  {
+   "text": "I threw the rope ... my friend, and he caught it.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-14"
+  },
+  {
+   "text": "Explain ... the guest how to use the heater.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-15"
+  },
+  {
+   "text": "Describe the thief ... the officer.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "at",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-16"
+  },
+  {
+   "text": "Ask ... him about the game.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "at",
+    "from",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-17"
+  },
+  {
+   "text": "She often talks ... her neighbours.",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "to",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-18"
+  },
+  {
+   "text": "We discussed ... the problem.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "about",
+    "to",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-19"
+  },
+  {
+   "text": "I don't care ... money.",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-20"
+  },
+  {
+   "text": "I don't care what ... you think.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-21"
+  },
+  {
+   "text": "Would you care ... a cup of coffee?",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-22"
+  },
+  {
+   "text": "He is old and needs someone to care ... him.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-23"
+  },
+  {
+   "text": "Take care ... yourself!",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-24"
+  },
+  {
+   "text": "I asked her ... help.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "to"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-25"
+  },
+  {
+   "text": "I applied ... a job at a bank.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-26"
+  },
+  {
+   "text": "I'm looking ... my keys!",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "after"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-27"
+  },
+  {
+   "text": "Can you look ... my cat while I am away?",
+   "answer": [
+    "after"
+   ],
+   "options": [
+    "about",
+    "for",
+    "of",
+    "after"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-28"
+  },
+  {
+   "text": "Last night I dreamt ... my exam. It was terrible!",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-29"
+  },
+  {
+   "text": "I often dream ... moving to the sea.",
+   "answer": [
+    "of",
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-30"
+  },
+  {
+   "text": "Did you hear ... the accident?",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-31"
+  },
+  {
+   "text": "I've never heard ... her. Who is she?",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "about",
+    "of",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-32"
+  },
+  {
+   "text": "I thought ... your idea all night.",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "for",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-33"
+  },
+  {
+   "text": "I'm thinking ... moving to another city.",
+   "answer": [
+    "about",
+    "of"
+   ],
+   "options": [
+    "about",
+    "of",
+    "for",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-34"
+  },
+  {
+   "text": "Could you remind me ... the meeting tomorrow?",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "for",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-35"
+  },
+  {
+   "text": "This photo reminds me ... my home town.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "about",
+    "of",
+    "for",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-36"
+  },
+  {
+   "text": "He always complains ... the weather.",
+   "answer": [
+    "about"
+   ],
+   "options": [
+    "about",
+    "of",
+    "for",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-37"
+  },
+  {
+   "text": "Everyone has been warned ... the dangers of smoking.",
+   "answer": [
+    "about",
+    "of"
+   ],
+   "options": [
+    "about",
+    "of",
+    "for",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-38"
+  },
+  {
+   "text": "They accused him ... cheating.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "about",
+    "of",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-39"
+  },
+  {
+   "text": "I suspect him ... lying.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "about",
+    "of",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-40"
+  },
+  {
+   "text": "My parents approve ... my decision.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "about",
+    "of",
+    "on",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-41"
+  },
+  {
+   "text": "Water consists ... hydrogen and oxygen.",
+   "answer": [
+    "of"
+   ],
+   "options": [
+    "by",
+    "of",
+    "from"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-42"
+  },
+  {
+   "text": "I'll pay ... the meal.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "on",
+    "by",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-43"
+  },
+  {
+   "text": "I need to pay ... %1.",
+   "answer": [
+    "no preposition"
+   ],
+   "options": [
+    "for",
+    "on",
+    "by",
+    "no preposition"
+   ],
+   "args": [
+    [
+     "the bill",
+     "the rent",
+     "a fine"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-44"
+  },
+  {
+   "text": "Thank you ... the invitation.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "on",
+    "by",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-45"
+  },
+  {
+   "text": "She never apologised ... that.",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "on",
+    "by",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-46"
+  },
+  {
+   "text": "Don't blame me ... that!",
+   "answer": [
+    "for"
+   ],
+   "options": [
+    "for",
+    "on",
+    "by",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-47"
+  },
+  {
+   "text": "They blamed the accident ... me.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "for",
+    "on",
+    "by",
+    "no preposition"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-48"
+  },
+  {
+   "text": "My grandmother suffers ... backache.",
+   "answer": [
+    "from"
+   ],
+   "options": [
+    "from",
+    "on",
+    "by",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-49"
+  },
+  {
+   "text": "Protect your skin ... the sun.",
+   "answer": [
+    "from",
+    "against"
+   ],
+   "options": [
+    "from",
+    "on",
+    "against",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-50"
+  },
+  {
+   "text": "It depends ... the weather.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "from",
+    "on",
+    "by",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-51"
+  },
+  {
+   "text": "You can rely ... me.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "from",
+    "on",
+    "by",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-52"
+  },
+  {
+   "text": "Some people live ... very little money.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "from",
+    "on",
+    "by",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-53"
+  },
+  {
+   "text": "I congratulated him ... his new job.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "from",
+    "on",
+    "by",
+    "for"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-54"
+  },
+  {
+   "text": "Do you believe ... ghosts?",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-55"
+  },
+  {
+   "text": "She specialises ... children's books.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-56"
+  },
+  {
+   "text": "He succeeded ... passing the exam.",
+   "answer": [
+    "in"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-57"
+  },
+  {
+   "text": "Somebody broke ... the shop last night.",
+   "answer": [
+    "into"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-58"
+  },
+  {
+   "text": "He %1 the car ... a wall.",
+   "answer": [
+    "into"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "args": [
+    [
+     "crashed",
+     "drove"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-59"
+  },
+  {
+   "text": "I %1 the apple ... two pieces.",
+   "answer": [
+    "into"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "args": [
+    [
+     "cut",
+     "divided"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-60"
+  },
+  {
+   "text": "Can you translate this ... English?",
+   "answer": [
+    "into"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-61"
+  },
+  {
+   "text": "A school bus collided ... a car.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-62"
+  },
+  {
+   "text": "Fill the glass ... water, please.",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "with",
+    "by",
+    "of"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-63"
+  },
+  {
+   "text": "Could you %1 us ... fuel?",
+   "answer": [
+    "with"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "args": [
+    [
+     "provide",
+     "supply"
+    ]
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-64"
+  },
+  {
+   "text": "What happened ... you? You look tired.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-65"
+  },
+  {
+   "text": "I prefer tea ... coffee.",
+   "answer": [
+    "to"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-66"
+  },
+  {
+   "text": "I can't concentrate ... my work.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-67"
+  },
+  {
+   "text": "She insisted ... paying for dinner.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-68"
+  },
+  {
+   "text": "I spend a lot of money ... books.",
+   "answer": [
+    "on"
+   ],
+   "options": [
+    "in",
+    "into",
+    "with",
+    "to",
+    "on"
+   ],
+   "type": "choice",
+   "skill": "prep-verb",
+   "id": "prep-verb-69"
+  }
+ ]
+}
